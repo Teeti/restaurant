@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>STARTERS</title>
+<style>
+body
+{
+font-size: 16px;
+color:#000;
+background-color: #612247;
+margin:0;
+}
+.header img {
+  float: left;
+  width: 150px;
+  height: 105px;
+  background: #000000;
+margin-top: 14px;
+margin-right:4px;
+padding: 2px
+}
+h2 a{color:red;background-color:transparent;text-decoration:none;}
+.header h3{
+color:green;
+}
+.header, .footer {
+    background-color:61B044 ;
+    color: white;
+    padding: 15px;
+    margin-top:0px;
+}
+
+.links{
+    background: gold;
+    width: 83%;
+    height: 61%;
+    padding: 50px;
+    border:2px;
+    float:right;
+}
+ul {
+list-style-type:none;
+    margin: 0;
+    padding: 0;
+    width:132px;
+    background-color:blue ; 
+  
+}
+li a {
+    display: block;
+    color: red;
+    padding: 24.5px 16px;
+    text-decoration: none;
+    height:100%;
+    width:100px;
+    text-align:center;
+    
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+</style>
+<body>
+<div>
+<div class="header">
+  <img src="http://www.ready-madelogos.com/wp-content/uploads/2011/06/restaurant_logos.jpg" alt="logo" />
+<h2><a href="vicky.html"><center>VANGS KITCHEN</center></a></h2>
+<h3 align="center">The world's best restaurant</h3>
+</div>
+<div class="links">
+<h4>VEG SOUPS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRICE </h4>
+  <input type="checkbox" name="love" value="love" id="love"><label for="love"> Tomato soup</label> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45Rs<br>
+<input type="checkbox" name="love" value="love" id="love"><label for="love"> Corn soup</label> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;55Rs<br>
+<input type="checkbox" name="love" value="love" id="love"><label for="love"> vegetables soup</label> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65Rs<br>
+<h4>NON-VEG SOUPS:</h4>
+<input type="checkbox" name="love" value="love" id="love"><label for="love"> chicken soup</label>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;67Rs<br>
+<input type="checkbox" name="love" value="love" id="love"><label for="love"> Mutton soup</label> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70Rs<br>
+<input type="checkbox" name="love" value="love" id="love"><label for="love"> Chicken vegetable soup</label> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75Rs<br>
+<input type="checkbox" name="love" value="love" id="love"><label for="love"> Chicken noodles soup</label> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 68Rs<br>
+<input type="checkbox" name="love" value="love" id="love"><label for="love"> Mutton noodle soup</label> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;79Rs<br>
+<input type="checkbox" name="love" value="love" id="love"><label for="love">  Mutton vegetable soup</label> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;85Rs<br>
+<input type="checkbox" name="love" value="love" id="love"><label for="love"> Pork soup</label> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70Rs<br>
+<form action="payment.html">
+<input type="submit" value="submit"></form>
+</div>
+<ul>
+<li><a href="starter.html">STARTERS</a></li>
+<li><a href="main.html">MAIN COURSE</a></li>
+<li><a href="bevarages.html">BEVARAGES</a></li>
+<li><a href="juices.html">FRESH JUICES</a></li>
+<li><a href="icecreams.html">ICE CREAMS</a></li>
+<li><a href="sweets.html">SWEETS</a></li>
+</ul>
+<div class="footer">
+<p>Contact us:<br>
+Chennai:9789878986<br>
+kanchipuram:9789878980<br>
+Thiruvallur:9789878989<br>
+<p>Mail id:<a href="mailto:vang'skitchen@gmail.com">
+  vang'skitchen@gmail.com</a>.</p>
+</p>
+</div>
+</body>
+</head>
+</html>
+
